@@ -1,0 +1,14 @@
+h1{
+  color: blueviolet;
+  
+}
+.footer {
+  margin-top: auto;
+ left: 0;
+ bottom: 0;
+ width: 100%;
+ background-color:black;
+ color: white;
+ text-align: center;
+ height: 25px;
+}
